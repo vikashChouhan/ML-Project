@@ -20,7 +20,15 @@ This repo contains the project files for 'Automatic soil testing using AI'. It h
   <li> Third and last section contains the GUI application using Tkinter in python. This interface takes various attributes of soil from user and predict the output. </li>
   </ol>
   
+  <br>
+  <br>
+  Screenshot of GUI:
+  <br>
+  <img src="/GUI Screenshot.PNG" width="70%"/>
   
   
-  
-  Happy Coding! :)
+  <br>
+  <br>
+  <br>
+  <br>
+  <right>Happy Coding! :)</right>
